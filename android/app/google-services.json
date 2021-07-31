@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359074457766",
+    "project_id": "platenoflutterapp",
+    "storage_bucket": "platenoflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359074457766:android:93141e284eb09714b5ac67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_liquid_swipe_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359074457766-vgmita6r52lrbe14l4shdokaenv9quhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD130JX8bHqYMFTQMBh_Vg65_0Bqem8DgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359074457766-vgmita6r52lrbe14l4shdokaenv9quhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
